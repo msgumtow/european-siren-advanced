@@ -12,7 +12,17 @@
  * Play note F
  * 
  * Unplot the LED at 2,2
+ * 
+ * MODIFICATION SUGGESTION:
+ * 
+ * Change LED placements or add more
  */
 basic.forever(function () {
-	
+    basic.showLeds(`
+        # # # # #
+        # # # # #
+        # # # # #
+        # # # # #
+        # # # # #
+        `)
 })
