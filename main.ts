@@ -18,11 +18,5 @@
  * Change LED placements or add more
  */
 basic.forever(function () {
-    basic.showLeds(`
-        # # # # #
-        # # # # #
-        # # # # #
-        # # # # #
-        # # # # #
-        `)
+	
 })
